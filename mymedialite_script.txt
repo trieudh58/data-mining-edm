@@ -1,0 +1,4 @@
+./rating_prediction --training-file=/home/trieudh/Desktop/CF/train_1-2.csv --test-file=/home/trieudh/Desktop/CF/test_2_with_scores.csv --prediction-file=prediction2.csv --recommender=MatrixFactorization
+
+With Prediction file: ./rating_prediction --training-file=/home/trieudh/Desktop/CF/train-test-1404/train1-2_test2/train_1-2.csv --test-file=/home/trieudh/Desktop/CF/train-test-1404/train1-2_test2/test_2_no_scores.csv --prediction-file=prediction2.csv --test-no-ratings --recommender=MatrixFactorization
+Measure RMSE: ./rating_prediction --training-file=/home/trieudh/Desktop/CF/train-test-1404/train1-2_test2/train_1-2.csv --test-file=/home/trieudh/Desktop/CF/train-test-1404/train1-2_test2/test_2_with_scores.csv --recommender=MatrixFactorization
