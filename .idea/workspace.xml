@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607d9f35-60b2-487d-bcc0-fdce08db3feb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all/combine_rate_0.9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all/combine_rate_0.9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no/combine_rate_0.9.csv" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mymedialite_script.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_8_no_scores.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_8_with_scores.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train-test-1404.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train-test-1404/combination/predictfile-4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train-test-1404/combination/predictfile-5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train-test-1404/combination/predictfile-6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train-test-1404/combination/predictfile-7.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train-test-1404/combination/predictfile-8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train_1-2-3-4-5-6-7-8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/traintest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/when_1-2_sem.csv" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CF.iml" afterPath="$PROJECT_DIR$/.idea/CF.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chart.py" afterPath="$PROJECT_DIR$/chart.py" />
     </list>
     <ignored path="CF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="statistic.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="statistic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/statistic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+            <state relative-caret-position="-53">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -77,22 +36,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/statistic/result.csv">
+      <file leaf-file-name="chart.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prediction_1_fold_1.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CF/prediction_all/prediction_1_fold_1.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="145">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_over8_sem.csv" />
-        <option value="$PROJECT_DIR$/train_1-2-3-4-5-6-7-8_sem.csv" />
-        <option value="$PROJECT_DIR$/train_1-2-3-4-5-6-7_sem.csv" />
         <option value="$PROJECT_DIR$/train_1-2-3-4-5-6_sem.csv" />
         <option value="$PROJECT_DIR$/train_1-2-3-4-5_sem.csv" />
         <option value="$PROJECT_DIR$/train_1-2-3-4_sem.csv" />
@@ -163,6 +111,9 @@
         <option value="$PROJECT_DIR$/statistic/st_1.csv" />
         <option value="$PROJECT_DIR$/statistic.py" />
         <option value="$PROJECT_DIR$/statistic/result.csv" />
+        <option value="$PROJECT_DIR$/chart.csv" />
+        <option value="$PROJECT_DIR$/out_Students_2012.csv" />
+        <option value="$PROJECT_DIR$/chart.py" />
       </list>
     </option>
   </component>
@@ -250,21 +201,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statistic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CF" />
+              <option name="myItemId" value="charts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,19 +217,19 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/ABCDF_PREDICT/SVM" />
-      <recent name="$PROJECT_DIR$/ABCDF_PREDICT/CF" />
-      <recent name="$PROJECT_DIR$/train-test-1404/combination" />
-      <recent name="$PROJECT_DIR$/train-test-1404" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ABCDF_PREDICT/COMBINE_RESULT/all" />
       <recent name="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/no" />
       <recent name="$PROJECT_DIR$/COMBINE_RESULT/cf_and_svm/all" />
       <recent name="$PROJECT_DIR$/all" />
       <recent name="$PROJECT_DIR$/all_no_following_sems" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ABCDF_PREDICT/SVM" />
+      <recent name="$PROJECT_DIR$/ABCDF_PREDICT/CF" />
+      <recent name="$PROJECT_DIR$/train-test-1404/combination" />
+      <recent name="$PROJECT_DIR$/train-test-1404" />
     </key>
   </component>
   <component name="RunManager">
@@ -532,7 +469,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980299" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28703704" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31944445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -815,10 +752,113 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out_Students_2012.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2541">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sems/2nd_sem.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sems/1st_sem.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphabet_combine_cf_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out_Students_2012.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chart_1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/statistic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        <state relative-caret-position="-53">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charts/chart_4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charts/chart_5.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chart.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charts/chart_1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
