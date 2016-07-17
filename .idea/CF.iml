@@ -6,7 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="mapping" />
     <orderEntry type="module" module-name="new_data" />
-    <orderEntry type="module" module-name="python code for generating datasets" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

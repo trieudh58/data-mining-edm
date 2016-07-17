@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/CF.iml" filepath="$PROJECT_DIR$/.idea/CF.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mapping/.idea/mapping.iml" filepath="$PROJECT_DIR$/../mapping/.idea/mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/../new_data/.idea/new_data.iml" filepath="$PROJECT_DIR$/../new_data/.idea/new_data.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../HQTCSDL/Source_code/datasets/python code for generating datasets/.idea/python code for generating datasets.iml" filepath="$PROJECT_DIR$/../HQTCSDL/Source_code/datasets/python code for generating datasets/.idea/python code for generating datasets.iml" />
     </modules>
   </component>
 </project>
